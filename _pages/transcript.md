@@ -10,7 +10,7 @@ redirect_from:
 Graduate Courses
 
 | Course    | Description                 | Grade |
-| --------- |:---------------------------:| -----:|
+| --------- |:---------------------------:|:-----:|
 | PHY 606   | Mathematical Phys           | A     |
 | PHY 601   | Mechanics                   | A     |
 | PHY 603   | Stat Phys                   | A     |
@@ -27,7 +27,7 @@ Graduate Courses
 Undergraduate Courses
 
 | Course    | Description                 | Grade |
-| --------- |:---------------------------:| -----:|
+| --------- |:---------------------------:|:-----:|
 | CHE 106   | Gen Chemistry I             | A     |
 | CHE 106L  | Gen Chem Lab I              | A     |
 | GS 100    | Orientation                 | P     |
