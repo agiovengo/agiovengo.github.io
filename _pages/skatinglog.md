@@ -1,3 +1,10 @@
+---
+layout: archive
+title: "Skating Log"
+permalink: /skatinglog/
+author_profile: true
+---
+
 | Course    | Description                 | Grade |
 | --------- |:---------------------------:|:-----:|
 | PHY 606   | Mathematical Phys           | A     |
