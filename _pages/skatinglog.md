@@ -1,8 +1,10 @@
 ---
 layout: archive
-title: "Skating Log"
+title: Skating Log
 permalink: /skatinglog/
 author_profile: true
+redirect_from:
+  - /resume
 ---
 
 | Course    | Description                 | Grade |
