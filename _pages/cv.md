@@ -11,8 +11,12 @@ redirect_from:
 
 Education
 ======
-* **Master of Science** in Physics, University of Southern Mississippi, May 2018 **GPA: 3.811**
-* **Bachelor of Science** in Physics (Honors), University of Southern Mississippi, July 2017 **GPA: 3.788**
+* **Master of Science** in Physics
+    * University of Southern Mississippi, May 2018 
+    * **GPA: 3.811**
+* **Bachelor of Science** in Physics (Honors)
+    * University of Southern Mississippi, July 2017 
+    * **GPA: 3.788**
 
 Skills
 ======
